@@ -8,5 +8,45 @@
             "index": 2,
             "title": "Suzuki",
             "url": "https://infosuzukiresmi.com/wp-content/uploads/2019/09/ftx-remote-starters-suzuki-png-logo-14.png"
+        }, 
+        {
+            "index": 3,
+            "title": "kawasaki",
+            "url": "https://logosandtypes.com/wp-content/uploads/2020/07/kawasaki.svg"
+        }, 
+        {
+            "index": 4,
+            "title": "honda",
+            "url": "https://logosandtypes.com/wp-content/uploads/2020/07/honda.svg"
+        },
+        {
+            "index": 5,
+            "title": " Yamaha",
+            "url": "https://logosandtypes.com/wp-content/uploads/2020/08/yamaha.svg"
+        },
+        {
+            "index": 6,
+            "title": "bajaj",
+            "url": "https://logosandtypes.com/wp-content/uploads/2020/06/bajaj.svg"
+        },
+        {
+            "index": 7,
+            "title": "lg",
+            "url": "http://logok.org/wp-content/uploads/2014/06/LG-Logo-face-1024x768.png"
+        }, 
+        {
+            "index": 8,
+            "title": "ferari",
+            "url": "https://cdn1-production-images-kly.akamaized.net/ktXhNGChAyE6UxhVGq5_teaRKyE=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1299410/original/085836400_1469592744-logo.jpg"
+        }, 
+        {
+            "index": 9,
+            "title": "daihatsu",
+            "url": "https://logos-world.net/wp-content/uploads/2021/08/Daihatsu-Logo.png"
+        },
+        {
+            "index": 10,
+            "title": "gojek",
+            "url": "https://i.pinimg.com/736x/62/75/c1/6275c180d36fae4342060c146eaecc8f.jpg"
         }
 ]
